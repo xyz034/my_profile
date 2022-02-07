@@ -1,2 +1,2 @@
 # my_profile
-my profile websit
+my profile website
